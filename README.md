@@ -16,6 +16,12 @@
 Это не профессиональная вычитка. Английские коды и слова-ответы местами сохранены
 намеренно. Надписи, нарисованные на текстурах, не переводились.
 
+## Демонстрация
+
+[![Демонстрация русского перевода Escape Academy 2](docs/media/demo-preview.webp)](docs/media/EscapeAcademy2Rus.mp4)
+
+[Открыть трейлер в MP4](docs/media/EscapeAcademy2Rus.mp4) — 40 секунд, со звуком.
+
 ## Скачать
 
 **[Скачать установщик из Releases](https://github.com/docwitson/Escape-Academy-Back-2-School-Russian-Translation/releases/tag/v0.2.0)**
