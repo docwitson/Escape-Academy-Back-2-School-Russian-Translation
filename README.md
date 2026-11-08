@@ -22,7 +22,7 @@
 
 ## Скачать
 
-**[Скачать установщик из Releases](https://github.com/docwitson/Escape-Academy-Back-2-School-Russian-Translation/releases/latest)**
+**[Скачать установщик из Releases](https://github.com/docwitson/Escape-Academy-Back-2-School-Russian-Translation/releases/tag/v0.2.0)**
 
 Нужен один файл `EscapeAcademy2-Russian-Setup.exe`. Python, UnityPy и интернет
 для установки не требуются. ZIP скачивать не нужно.
