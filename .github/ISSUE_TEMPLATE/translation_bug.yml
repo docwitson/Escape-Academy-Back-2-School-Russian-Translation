@@ -1,0 +1,45 @@
+name: Ошибка перевода / хардлок / софтлок
+description: Проблема с загадкой, диалогом, отображением или установкой.
+title: "[Ошибка] "
+body:
+  - type: markdown
+    attributes:
+      value: "Перевод пока не прошёл полный игровой тест. Спасибо за помощь! Не прикладывайте игровые архивы."
+  - type: input
+    id: versions
+    attributes:
+      label: Сборка игры и версия русификатора
+      placeholder: "Steam build 26497480, русификатор 0.2.0"
+    validations:
+      required: true
+  - type: input
+    id: room
+    attributes:
+      label: Комната / задание / место в игре
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Тип проблемы
+      options:
+        - Хардлок — пройти дальше невозможно
+        - Софтлок — застревание или сломанное состояние
+        - Неверная подсказка / ответ
+        - Ошибка текста / отображения
+        - Ошибка установщика / обновление игры
+        - Другое
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Что произошло и как повторить
+      description: Какие действия выполнены, что ожидалось и что получилось? Для загадки укажите вводимый ответ.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Скриншоты
+      description: Прикрепите скриншот загадки, диалога или ошибки.

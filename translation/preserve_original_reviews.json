@@ -1,0 +1,107 @@
+[
+  {
+    "id": "gameplay:HUM_BubbleKey",
+    "source_sha256": "6ff2cd8d2a60daf14727b74eff710d3f4199190c9be6dd2ea3921f4f10d10cfe",
+    "reason": "fictional_BubbleKey_brand_consistently_preserved",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:HUM_Item_LectureQuizCorrect",
+    "source_sha256": "bd1009014fd7d56b9c2da549ced1477aa459541ad00f47b912df9c0a4e1d33be",
+    "reason": "fictional_BubbleKey_brand_consistently_preserved",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:HUM_Item_LectureQuizIncorrect",
+    "source_sha256": "bd1009014fd7d56b9c2da549ced1477aa459541ad00f47b912df9c0a4e1d33be",
+    "reason": "fictional_BubbleKey_brand_consistently_preserved",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_16lbs",
+    "source_sha256": "0d50e172faf51f83502f8d674afec15994de5d3866c58a9da433d8ccffcd3277",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_22lbs",
+    "source_sha256": "a267d44a7c96697bd9586200c945a8536c1a9e6cee1044802505f4a2981040f7",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_28lbs",
+    "source_sha256": "292a7a0a5eef43fa512860e58d2c13e27a2dea7bd4b5af646a533f5ad6fb1dd1",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_2lbs",
+    "source_sha256": "cd46f399cf5deae182604e8b3d0f1585cb0479fafa584f0a443cb59f29bb6d7a",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_3lbs",
+    "source_sha256": "e14a4c122332ab7a82c999b261b802e242eaca5249faa2f560df8e2ab9d8bca7",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_5lbs",
+    "source_sha256": "c91ffbe9e20cb1a6cff7c9f6ac814cc644bca50cdf72e0cfe49b0f4369941982",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_7lbs",
+    "source_sha256": "09b3c324f07c77c85e798d7742e668c2631fcdb3c2d8bc8e4782cd7cbf429c27",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_8lbs",
+    "source_sha256": "e6febfbe3bf122f6a77b32eb0cbe85947ae1d6e92cba6e68ffa7bc7d5fee4810",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:RAT_9lbs",
+    "source_sha256": "46d2caa4fa4c63e5f42f55ce9f4de96b33407a4a71c84632882aedb83a894013",
+    "reason": "original_weight_unit_is_explicitly_protected_lbs",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "vo:VonBellini_AHY_ShipVeeredOffCourse:327",
+    "source_sha256": "64adc62d77b5fa0fe1eeb9bbf03ecaacabeb8777bdf43e2be408667eeb824800",
+    "reason": "preserve_English_lemon_answer_and_original_pun",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:CY3_Item_OldnessPaper",
+    "source_sha256": "f0f90beeb768b6d312eff8e662563d817a8703b436edecdb815ec782d36f209a",
+    "reason": "fictional_pseudo_Latin_device_name_Machina_Extractio_consistently_preserved",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:CY3_MachinaExtractio",
+    "source_sha256": "f0f90beeb768b6d312eff8e662563d817a8703b436edecdb815ec782d36f209a",
+    "reason": "fictional_pseudo_Latin_device_name_Machina_Extractio_consistently_preserved",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  }
+]

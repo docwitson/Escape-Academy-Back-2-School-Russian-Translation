@@ -1,0 +1,410 @@
+[
+  {
+    "id": "gameplay:GUN_Name_Lockson",
+    "source_sha256": "9a594c2da20a29ef80fb6dff98906b365f29a152d3f899b9ed019af1be3a4f8b",
+    "translation_ru": "Локсон",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0c80f26",
+      "source_sha256": "f754d78c4b5379ed78c1ce596ac025759feb7dc45e71fec2da787a45544e74eb",
+      "translation_ru": "Локсон..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Name_Coluembo",
+    "source_sha256": "e8ae1ce6fc5e6a98691d76febe582fa0deb001009f45277fd520d9c53c31efc8",
+    "translation_ru": "Колюмбо",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:04c4a9f",
+      "source_sha256": "8a9656f7483800d82b19eab612325f7c7d78abfeb7a5d5362389b4017c0b5276",
+      "translation_ru": "Колюмбо..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Name_Bertrand",
+    "source_sha256": "eeb2701607786e9d2efd96d21eb69c1d3eaee67eb466463932fe4f652d75ae20",
+    "translation_ru": "Бертран",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0bd1d61",
+      "source_sha256": "3449688d40419efdd76259bf91305796c78bb14f521a121c814e46ed7394ddd8",
+      "translation_ru": "Бертран..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Name_Parrot",
+    "source_sha256": "21957106f22269fcf84cfd8bcd7b11c353b8155582ec8eae584dc876457787f8",
+    "translation_ru": "Паррот",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0e09d4e",
+      "source_sha256": "7e80887d74a68b46aa8c301e262332a4f3978690b1ac6e0300f095c97a679e66",
+      "translation_ru": "...Паррот."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Name_Clueseau",
+    "source_sha256": "9eaaeee4d65bbfdd52393e5a6ee8155650ab00db356b5bd06f39bd4bbdbb21ea",
+    "translation_ru": "Клюзо",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:04e6473",
+      "source_sha256": "e0f78052e92c60d9bbfa4d75a9302d157472f4ebcb1f3cfe73454bee8805c0ad",
+      "translation_ru": "...Клюзо."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Name_Houses",
+    "source_sha256": "d9e258d9f52ec2dfb9c0a8a4153c635f2d09e8c95e8e0a7953e09111f9cd08f7",
+    "translation_ru": "Хаузес",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0008c4e",
+      "source_sha256": "17b990b211c87c8885098c2b0594f090545b81115d9853526275be6971d3123b",
+      "translation_ru": "...Хаузес."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Name_Solverson",
+    "source_sha256": "d0f0f431af983252f52246b0ae04f5e3517c570043a1ab16394cc73b3044b7f8",
+    "translation_ru": "Солверсон",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0fcc002",
+      "source_sha256": "3cd0b57d5fa22a2a79b5abda569a957d0a7d3bf8ded4e49723464a36485144fa",
+      "translation_ru": "...Солверсон."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Crime_Arson",
+    "source_sha256": "873b013a32daf36a7726c76ba67b2218a59b1ef264c55cf792adadbd98fbc8d9",
+    "translation_ru": "Поджог",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0a2c752",
+      "source_sha256": "386ec80e40c64e66c5bb3b05f83e91cbbf609d6e30c39fb6b2fa692924d68e40",
+      "translation_ru": "Поджог..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Crime_TaxEvasion",
+    "source_sha256": "25191a8efcb3d3d7606d95859a2a06edf750536100d6a382db4c918a19bdaae9",
+    "translation_ru": "Уклонение от налогов",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:04602cd",
+      "source_sha256": "dc670b91101ac2b266f753690ce8faf21f0c5a139879a1b14dbe227971304895",
+      "translation_ru": "Уклонение от налогов..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Crime_Fraud",
+    "source_sha256": "1baabd4791ec1e2cacbbb2b00ca140d184b47e19b5251b088e4c6a000913e309",
+    "translation_ru": "Мошенничество",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:06562e0",
+      "source_sha256": "ea3124d5a874c8307bdd96b08b729948aae7893ece7563a8d641709e87f7b86f",
+      "translation_ru": "Мошенничество..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Crime_Embezzlement",
+    "source_sha256": "30f8cb99715c841c2f34012d052fdc39485e1252f6f9459dfbb3d11e9a0ba306",
+    "translation_ru": "Растрата",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:046f7d2",
+      "source_sha256": "130a8eca75f29fe74d67c582adf5a2b8a4fe519fa7764a2540bd3046b4627171",
+      "translation_ru": "Растрата..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Address_Street",
+    "source_sha256": "c666591df0537cf226cc7d33d50a72a2d9d4c7651ff7caeae045f723528c3917",
+    "translation_ru": "Улица",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0f2d184",
+      "source_sha256": "1d0270050e4fea7d55d7b1a1316a485f98397d4cb895e643dfe5171003bd8f1a",
+      "translation_ru": "Улица!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Address_Boulevard",
+    "source_sha256": "4aef5da3f1d8c288c8b45b94ea6dd3d280867b65a4f3ab3fa79735f36de21647",
+    "translation_ru": "Бульвар",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0636759",
+      "source_sha256": "83830c12d5a1daf38a418252b173d573851b995b1500b331d17e748b4d5f1aa8",
+      "translation_ru": "Бульвар!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Address_Avenue",
+    "source_sha256": "92b43f0001d42cbd0dc872fefcdf3dc3b0c022e711947d5ba2c3f96ed263ede5",
+    "translation_ru": "Авеню",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0aaacd2",
+      "source_sha256": "3e01a256b327178467efeb4f8be5d73240ea5413476450689034c4c0531c6361",
+      "translation_ru": "Авеню!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Address_Lane",
+    "source_sha256": "559263857b40b5a9bfe31255fdd369afa4226581ea9f5140fdf8baf18645f8e6",
+    "translation_ru": "Переулок",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0169dad",
+      "source_sha256": "84a2718a303dd12730fc873023cda651815e7954057b079484df05168144d656",
+      "translation_ru": "Переулок!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Rope",
+    "source_sha256": "840693813ca35f2085c9df241273161db78a4ace20046236a8ab826101f9daed",
+    "translation_ru": "Верёвка",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:010c966",
+      "source_sha256": "b7b5d64bc33e7367b84608716cf3836e990d7d30bbbde55c20503f601977941e",
+      "translation_ru": "Питер был убит верёвкой!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Axe",
+    "source_sha256": "03254f526e03b849f489d6f1807b248bd7dd6c193318d396f40fe30e9b0457a9",
+    "translation_ru": "Топор",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:08fb93a",
+      "source_sha256": "a410cf777c6ac2eea40a179fcf8c614ec6b4876b8ce4809c940b12eed65a6908",
+      "translation_ru": "Питер был убит топором!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Plunger",
+    "source_sha256": "93b21271c8f181c50d89eab766356a24544c43f5985e3098ef3d86ee740cab75",
+    "translation_ru": "Вантуз",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:030b105",
+      "source_sha256": "110a2dd3d69bfdfff37fab6132d692aaa7df14b003f4e68eb9e1b4ca30114b9a",
+      "translation_ru": "Питер был убит вантузом!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Saw",
+    "source_sha256": "a611f1569ef932b2316ad6bc93435309993ec3211ec5e2e721279cd2bc3a9a7d",
+    "translation_ru": "Пила",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:03d3686",
+      "source_sha256": "ba4346e2cbb7362627487cf6113a0eb0d606ec2e9f7647d00a5b2fcf9549c29a",
+      "translation_ru": "Питер был убит пилой!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Hammer",
+    "source_sha256": "8ee0c663fbd39c15b248dd149d8a626027407f4fa04ab80f17d3875166a2e5b8",
+    "translation_ru": "Молоток",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0c8c246",
+      "source_sha256": "0efbb9c72f772db91081452197d32899041fea49537d8e168669e800c7f0fd45",
+      "translation_ru": "Питер был убит молотком!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Paintbrush",
+    "source_sha256": "999969d6c4edbabd4039ea8fdcac634d945de7612ef870786934c965e6a70b8c",
+    "translation_ru": "Кисть",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0709898",
+      "source_sha256": "57a9b7a801b43b3ea54e3c829ab0743e0286626c76bd54248c6d4346c2205b86",
+      "translation_ru": "Питер был убит кистью!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Knife",
+    "source_sha256": "e0c46e657db02236a655fecff36fcd653ba3a27ced021767396433278fec86f8",
+    "translation_ru": "Нож",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0274a02",
+      "source_sha256": "ac53916cc842b6bd17cbeb6a0744dd19bd51d4f0f6579d61753de04b9a3c9e5a",
+      "translation_ru": "Питер был убит ножом!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Pan",
+    "source_sha256": "b4c1183570cdd270110284a508039838ef1c4a0d9a8424f6b0171ad1e27b196a",
+    "translation_ru": "Сковорода",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0c3d5ab",
+      "source_sha256": "f929f0d0fa0f00fbecd7426b057a2def260010e0d29b574f31d24e8fe9411b6a",
+      "translation_ru": "Питер был убит сковородой!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Weapon_Spoon",
+    "source_sha256": "50b16376f7ef4c920a2055dc3b23651a6f5e7e656713033dbdcaf75a77dc4ed0",
+    "translation_ru": "Ложка",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:046ea6a",
+      "source_sha256": "bada9a46a0adb39af830204de4317cc4a77ae99b82f2e9adbbed60926cf53b37",
+      "translation_ru": "Питер был убит ложкой!"
+    }
+  },
+  {
+    "id": "gameplay:GUN_Spot_Suitcase",
+    "source_sha256": "73d842ba265c01008c5c7a95463546229bdcc715ead6d098fed5c7222f7c66d5",
+    "translation_ru": "из его чемодана",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0672147",
+      "source_sha256": "da248ab3f932fe81c82252f00bdd452100acee3fb5aee0cd845500784140d12f",
+      "translation_ru": "Настоящее орудие убийства в его чемодане..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Spot_Kitchen",
+    "source_sha256": "a594f479b392c0187f2284ed85ca6b1a9fb777ec4a3b7a56c82fcd8af694bd43",
+    "translation_ru": "из кухни",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:0a17e0f",
+      "source_sha256": "3e949861b649eda5da315ade5ea511db25685b585e38b8b1121c55b2e494875a",
+      "translation_ru": "Настоящее орудие убийства в его кухонном шкафу..."
+    }
+  },
+  {
+    "id": "gameplay:GUN_Spot_Toolbox",
+    "source_sha256": "23f5f26aad57b5fca5fc8b8e672177265a4fff3169e34faad4abf48d03b573ca",
+    "translation_ru": "из его ящика для инструментов",
+    "reason": "joint_review_of_UI_choice_and_Yarn_semantics",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "yarn_witness": {
+      "id": "yarn:line:04a40e9",
+      "source_sha256": "af7289b94623205b06579344ed048364b7767eda85b8cab73b5ce04425f4d6cc",
+      "translation_ru": "Настоящее орудие убийства в его ящике для инструментов..."
+    }
+  },
+  {
+    "id": "gameplay:TOW_Hint_RopeC",
+    "source_sha256": "689a5e607b9fe62b5b98803bcf89017fca6d016f2348f93813fa8b149e610282",
+    "translation_ru": "Связав верёвки, посмотри в эту подзорную трубу. Какое созвездие ты видишь?",
+    "reason": "translate_observation_instruction_preserve_Latin_answer_CAMEL",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "answer_remains_english": "CAMEL"
+  },
+  {
+    "id": "gameplay:MUS_HInt_SpinnerB",
+    "source_sha256": "b887b4b4a7d71bc3862e6ed17c111abfaf2590fdc854aac8e3827c8a4f5ad92e",
+    "translation_ru": "Что ты видишь, когда нанесены все цвета?",
+    "reason": "translate_observation_instruction_preserve_Latin_answer_LION",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "answer_remains_english": "LION"
+  },
+  {
+    "id": "gameplay:PRO_HallwayWest_SomeOf",
+    "source_sha256": "9f2ae64a3c8b6daa4b1f1ed4a71aeaef6fbfbb7729161dc86800a6384ff08b6d",
+    "translation_ru": "",
+    "reason": "explicit_author_instruction_blank_in_non_English",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "runtime_verified": false,
+    "intentional_blank": true
+  }
+]

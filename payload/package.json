@@ -1,0 +1,56 @@
+{
+  "version": "0.2.0",
+  "game_build": "26497480",
+  "files": [
+    {
+      "container": "EscapeAcademy2Back2School_Data/StreamingAssets/aa/StandaloneWindows64/yarnprojects__a0b284219534b9affacf225c0ecd5ffb.bundle",
+      "source_sha256": "cda96c845c9c073159d71aa831b15fedf429a962d61835e6d729444a68551112",
+      "patch_sha256": "8fb22a8fee786ee91b22f377f406da9e78f6052ab8e7e2d7af86a72eef88f506",
+      "objects_verified": 9,
+      "changed_objects": [
+        {
+          "asset_file": "CAB-be11c5f92a6467f53aaa915106d5e687",
+          "path_id": 6561115889310298899
+        }
+      ],
+      "unchanged_objects_byte_identical": true,
+      "metadata_unchanged": true,
+      "physical_text_edits": 702,
+      "forward": "0-forward.bsdiff",
+      "forward_sha256": "0b581b6600dc163c0130573c2f15685b411cd177ac9bba289d6fe7363a03920d",
+      "reverse": "0-reverse.bsdiff",
+      "reverse_sha256": "7fd6014dc11d771551e900cb097bc431b817e6249bb99e72b6f62db9b790ae9e"
+    },
+    {
+      "container": "EscapeAcademy2Back2School_Data/sharedassets0.assets",
+      "source_sha256": "454d7a62258f0396a6f4d3d3de6e8a4714b6c1462f11a86b80d5a8bc1cea4a9b",
+      "patch_sha256": "3fdf2275a56a9503b07f0708b2999926cd851e0ff3e3537ea4ca915a49bb42b5",
+      "objects_verified": 13999,
+      "changed_objects": [
+        {
+          "asset_file": "sharedassets0.assets",
+          "path_id": 585
+        },
+        {
+          "asset_file": "sharedassets0.assets",
+          "path_id": 586
+        },
+        {
+          "asset_file": "sharedassets0.assets",
+          "path_id": 9445
+        },
+        {
+          "asset_file": "sharedassets0.assets",
+          "path_id": 9444
+        }
+      ],
+      "unchanged_objects_byte_identical": true,
+      "metadata_unchanged": true,
+      "physical_text_edits": 8034,
+      "forward": "1-forward.bsdiff",
+      "forward_sha256": "cf6a66f74349fca57b0989355c6fb1ce7aea3dee0eec34457ff9d9eeb4a58601",
+      "reverse": "1-reverse.bsdiff",
+      "reverse_sha256": "f21b05b721415b4531d9ec121431b092e00f78d5ec4b1cb7f907fa1c8b711989"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+[
+  {
+    "id": "gameplay:GUI_FOV",
+    "translation_ru": "Угол обзора",
+    "reason": "standard_Russian_game_setting",
+    "source_sha256": "5608c2a19433a83e78e41839e7532b25697b27cbe416718c1cb0c7810ce3eb53",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_RestoreDefaults",
+    "translation_ru": "Сбросить настройки",
+    "reason": "natural_UI_action",
+    "source_sha256": "33a3925b62344e5775d0a04a01841a831b5f7855e4da2f0df82e0c5884dca72d",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_CozyMode",
+    "translation_ru": "Без ограничения времени",
+    "reason": "natural_setting_label",
+    "source_sha256": "f634f92601c2abb2502c3baa70153e433a50e26565a1f2d5392777d7762389a7",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_CantSaveDuringEscape",
+    "translation_ru": "В квест-комнате нельзя сохраняться. <br><color=grey>Игра была автоматически сохранена перед началом уровня.</color>",
+    "reason": "correct_Russian_syntax_preserve_tags",
+    "source_sha256": "c8c730bb003dffd023bb49e8c35ea5bbc9121bf9f4df88b3f6166112f033c5ad",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_RebindGamepad",
+    "translation_ru": "Настроить кнопки геймпада",
+    "reason": "translate_binding_action_not_device",
+    "source_sha256": "b2885a55332347e448e43e0d7bcfdbd1eb3d9dfa475e0b74a88210ce9278cd90",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_RebindMouse",
+    "translation_ru": "Настроить клавиши и кнопки мыши",
+    "reason": "translate_binding_action_not_device",
+    "source_sha256": "ba572314537e9fb04f164e14d265b2940f15cac1ff063173ef3bdec6bfc11bc4",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_Rebind_Blocked",
+    "translation_ru": "Это назначение необходимо для {0}. Выбери другое.",
+    "reason": "consistent_informal_address",
+    "source_sha256": "53a6ac66ea7a9f8d30eb029e12b0e76e9513c9267a9d8f0069d9ae676d31eb01",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_Rebind_Conflict",
+    "translation_ru": "Это назначение уже используется для {0}. Всё равно переназначить?",
+    "reason": "consistent_binding_terminology",
+    "source_sha256": "b10541866caafb307ac1f104bd886d67c4c810cd2b285666075c02d50e3ab138",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_SelectSubsave",
+    "translation_ru": "Выбери версию сохранения:",
+    "reason": "natural_save_snapshot_label_and_address",
+    "source_sha256": "a3a463dca2731108848bdb1c26ab15bf9bca625406cf01607e4d355af119ec8b",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_SplitscreenAlt",
+    "translation_ru": "Камера напарника",
+    "reason": "consistent_partner_terminology",
+    "source_sha256": "66319f1be2e7a049ce24105c31d6af0da357c4452bea0b23abc15231d7371bd4",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_SplitscreenAltA",
+    "translation_ru": "Показать камеру напарника",
+    "reason": "consistent_partner_terminology",
+    "source_sha256": "3592d41c9ddcfd436beff8cd79e46188c6d1e21c00ee0b8debdd19b98ef61af3",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_SplitscreenAltB",
+    "translation_ru": "Скрыть камеру напарника",
+    "reason": "consistent_partner_terminology",
+    "source_sha256": "a3c5302aee805abcf49c9d1f2b764a2e8b1da13745b4a43190e4136f884ab995",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_SplitscreenAltC",
+    "translation_ru": "Переключить камеру напарника",
+    "reason": "consistent_partner_terminology",
+    "source_sha256": "444c1748e0e4eedcaae9d89929a1d16d7dc51aabe8ee6c6ae5ac34973aaf89d7",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUI_ReloadConfirm",
+    "translation_ru": "Внимание: изменение этой настройки перезапустит уровень. Продолжить?",
+    "reason": "concise_confirmation_without_gendered_address",
+    "source_sha256": "a3bacc98b652222f96908d3e3c6deabff1d0e13b1013141413dd344a4c7902f0",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:TIC_Tapestry",
+    "translation_ru": "Не терпится <i>разглядеть</i>, что готовит этот год! ",
+    "source_sha256": "8b180a63b2ea0485e692c556f39f47b63f8d93e520a750e69d5024c8fea199cc",
+    "reason": "improve_tapestry_pun_readability_preserve_italic_marker",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:TIC_TimeTicking",
+    "translation_ru": "Часики тикают... Надо успеть на трамвай!",
+    "source_sha256": "a4574016cbb80dbb003e18f183f5452e4856c6f98df3645d1c8d066ceb9d8b7c",
+    "reason": "natural_clock_flavor_line",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:0258a9a",
+    "translation_ru": "Professor Bonilla:Нам лучше отправиться к <style=\"clue\">сцене в садах кампуса.</style> Не хотелось бы навлечь на себя <i>гнев</i> Эноры. Адиос!",
+    "source_sha256": "7c9b21817b1bf7582eada664c373413460cef2e5b08f2287b2b615b30c272d65",
+    "reason": "adapt_cosmetic_wreath_wrath_pun_to_intended_threat_without_literal_wreath",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:CY1_Hint_FootpathB",
+    "source_sha256": "8d356fb8b436b71c6e03881650ac57aec016c09e142064375b33d3807cb0c072",
+    "translation_ru": "...с помощью этого ключа к шифру! Первая буква — {@CY1_PasswordUnmask[0]}.",
+    "reason": "replace_added_numeric_ordinal_with_word_matching_source_first",
+    "editor": "Codex",
+    "date": "2026-11-06",
+    "model_raw_response_sha256": "5af8d9319605a3cbe325a9f1fa65851549fad39fa4365fbfcf996639fb605488"
+  },
+  {
+    "id": "gameplay:AHY_EscapistTimes",
+    "source_sha256": "152cb296db6b193d944448d1308da7a64260ac7b1c43714a604296ecac77b1a9",
+    "translation_ru": "«Вестник эскаписта» — РЕПОРТАЖ: Пенсия — тонущий корабль, работайте, пока не окажетесь кверху килем",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:CY2_EscapistTimes",
+    "source_sha256": "eaa474ea0cf5aa370719a3116ec90a7b9787c734d348bd496ba44a976f504d8f",
+    "translation_ru": "«Вестник эскаписта» — В стране сомневаются насчёт Луизиключианской покупки",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:CY3_EscapistTimes",
+    "source_sha256": "89bf7e63451f18f0ab3f4b298a823760a43412a58702c5b150f69d59283d0ea7",
+    "translation_ru": "«Вестник эскаписта» — Клюис и Лок всё ещё жутко раздражают со всей этой историей об Орегонской тропе",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:EscapistTimes_Hint_Location",
+    "source_sha256": "8bc87e07aacdf6ba80f46fb44748e4c56d18a8f5967b0494d25e6fb47f3c3a69",
+    "translation_ru": "Отправляйся в здание «Вестника эскаписта» в Гуманитарном кампусе.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:GUN_EscapistTimes",
+    "source_sha256": "f835068cdf2b58408049ea74ed073e75c36ebeb0d8277d6ea2c9a92ce1083fd1",
+    "translation_ru": "«Вестник эскаписта» — ИССЛЕДОВАНИЕ: играть легко, сохранять достоинство при этом трудно",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:HUM_Esc_Files",
+    "source_sha256": "8b7eb0f57949f412ee23b31a1e0ac30e53efff1874588c7f5778675c58883811",
+    "translation_ru": "Ого, по экземпляру каждого выпуска «Вестника эскаписта» с момента основания... сколько же тут заголовков!",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:SCI_Ch2_EscapistTimes",
+    "source_sha256": "672a2c83bb045b96ece29d0f78c34d038568dd74ed9dbafeecaee153541e46ae",
+    "translation_ru": "Вестник эскаписта — огромное разочарование для пироманов кампуса: профессор Бонилья стоит на своём и отказывается преподавать создание бомб",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:SCI_Ch3_EscapistTimes",
+    "source_sha256": "d57f6b4575b1845e1fea6c397913bf0894c55952ee30611365f7ef23ce2f516f",
+    "translation_ru": "Вестник эскаписта — ОПРОС: кто назвал школьную курицу Наггетсом? Серьёзно, ребята. Это уже перебор.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:SCI_Ch5_EscapistTimes",
+    "source_sha256": "1eb62a9f2d766dfc26839104e51e387f56950beaafce6f6c3b64cfce88c2ebef",
+    "translation_ru": "Вестник эскаписта — ИССЛЕДОВАНИЕ: 57% студентов были бы не против снова видеть робота Эла Барнса своим профессором",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:SCI_Ch6_EscapistTimes",
+    "source_sha256": "231171725802089e3f978b5af9a1f951b2fc99438388b0fd436df2291fe91922",
+    "translation_ru": "Вестник эскаписта — МНЕНИЕ: выход на пенсию — это просто капитуляция, но с вечеринкой",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:SCI_Ch7_EscapistTimes",
+    "source_sha256": "c0dba4655b40fe98a17dc2550ecce51497041d8496f4035a7c0bd3fe4f9babdf",
+    "translation_ru": "Вестник эскаписта — директор Соланж делает очередной смелый шаг, повысив взбунтовавшийся в прошлом ИИ на тележке с телевизором, Кванти, до старшего профессора естественных наук.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:SCI_Ch8_EscapistTimes",
+    "source_sha256": "3d7467e677545013bae44aaa79dc2cf66e39d63eb2da60cd098762ee78f4bed4",
+    "translation_ru": "Вестник эскаписта — мы всё ещё не доверяем Кванти, и вам тоже не стоит",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:SCI_Epi_EscapistTimes",
+    "source_sha256": "ae40ca52f457a90e4c3872c5e24ba1f26c1b5293c3821a4f8179a2db31aeb75c",
+    "translation_ru": "Вестник эскаписта — всё внимание приковано к факультету естественных наук после двух попыток переворота подряд",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:TIC_EscapistTimes",
+    "source_sha256": "133154e46176e8ae5cf029b85f55cdda001a5066cf2f9b527328ae8429263fa1",
+    "translation_ru": "«Вестник эскаписта» — директор Соланж упорно настаивает, чтобы учебный год прошёл «без драм и переворотов»",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "gameplay:TOW_EscapistTimes",
+    "source_sha256": "a44263ab0eda4502cdf56099f06a60e6e9ac2a0c802795bffaf008d13eb5b2a0",
+    "translation_ru": "«Вестник эскаписта» — местный эскапист в ужасе от перспективы решать головоломки на глазах у сверстников",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "vo:HistoryFemaleStudent2_WLD_EscapistTimesHacks:928",
+    "source_sha256": "bb60254ac633ec9b5495741caffd466d0f6c544a87a7ec28b2757e9da5628083",
+    "translation_ru": "В «Вестнике эскаписта» работают одни бездари.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "vo:HistoryFemaleStudent2_WLD_NeverKnowWhatAnyonesSaying:929",
+    "source_sha256": "825e3b1491deebab4271718e562dfeb7b9c8921914c255dc3358b5406474dea7",
+    "translation_ru": "Я вообще никогда не понимаю, о чём говорят в Центре шифров.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "vo:Reed_TIC_PublishAnything:9",
+    "source_sha256": "96666ff37ff4309b505865f74bcd1ff764c4b8decfb969ad0d71275505bf11e6",
+    "translation_ru": "В «Вестнике эскаписта» напечатают что угодно, кроме правды.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "vo:WarBuffMaleStudent2_WLD_BelieveEveryWord:916",
+    "source_sha256": "073e0808abbf3db195764d8350ac9e211a7fd38c8241bfbcb65eced104090b6e",
+    "translation_ru": "Я верю каждому слову в «Вестнике эскаписта». Какой смысл прессе врать?",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "vo:WarBuffMaleStudent2_WLD_CipherCenterWorry:917",
+    "source_sha256": "a39e2a35d4770bd16531212e695d12f41f96bff844e7badcdd7c8cee8d63538d",
+    "translation_ru": "Я немного переживаю из-за программы Центра шифров... Говорят, нам придётся кучу времени проводить в криптах.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:02b1a5d",
+    "source_sha256": "ececf74dde4f854b49d8271bcc113f2002776d65cffb51c2393e8061d0f59fd6",
+    "translation_ru": "Eddie Stones:Ого, дело в «Вестнике эскаписта» закрыто!",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:0535e49",
+    "source_sha256": "0c6f77f530fd43efb665c5e6cb75e0b1681b9748e320f6a6e693bc504eed6fe3",
+    "translation_ru": "Для меня честь помочь прославленному «Вестнику эскаписта». <style=\"assignment\">(Взять дополнительное задание)</style>",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:08b57a2",
+    "source_sha256": "3ecd0b756e9daa24ad92c89dd920333faaa11f71671fc49c66ed3ad6bd6c2f73",
+    "translation_ru": "Clifford Little:Я позабочусь, чтобы в «Вестнике эскаписта» тебе написали хороший некролог.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:08df0b3",
+    "source_sha256": "fd2af21a166a8b4a8ec8cc95f83ecbca39c59476e85f214eb0be43221aa46915",
+    "translation_ru": "Reed Wright:Там куча вымаранных заголовков в «Вестнике эскаписта» и пропавших ведомостей посещаемости с периодичностью ровно в сорок лет.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:08e9be1",
+    "source_sha256": "e287399adc7f0b51ad665f162c9d95e5beb3af5020d0af975e651aa981f7f550",
+    "translation_ru": "Dougie Courderoy:Когда-нибудь я хочу попасть на обложку «Вестника эскаписта»!",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:0a774c2",
+    "source_sha256": "a88ebaa964f82be94a6bfa35edf4ec646b497bd0b84818ae731b46338af0e211",
+    "translation_ru": "Nate Noah Nameson:У нас тут срочные новости прямо в редакции «Вестника эскаписта»!",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:0aa7b40",
+    "source_sha256": "4e8b18b7004688dd283982e3d15a5fe9493293607f366bc2a3485528ce1e15be",
+    "translation_ru": "Professor Chortkoff:<i>СЛИП!</I>",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:0b8a098",
+    "source_sha256": "4cadbd07258a331b79fd4d98310848cae3beae739b4b7d75b9cf33fef6093242",
+    "translation_ru": "Eddie Stones:Честно говоря? Я рад, что Нейт выставил меня из редакции <style=\"clue\">«Вестника эскаписта»</style>... там слишком много драмы.",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:0b99f6e",
+    "source_sha256": "2147b104bf1c4ac2b1dd7c3a286fb8b1d8fdbd1bae8a7ff02cedaf75e8f42352",
+    "translation_ru": "Dougie Courderoy:...Когда-нибудь я хочу попасть на вторую полосу «Вестника эскаписта»!",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:0f37381",
+    "source_sha256": "d8bcbe83edb06f1a14073afdea30603012aa8babddf2f581e699601da57ad6fe",
+    "translation_ru": "Grace Schryer:Это мрачный день для «Вестника эскаписта»...",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "yarn:line:0f8d0e0",
+    "source_sha256": "72409791b60adfe9348f79424aaee1f3a6d7dd16a97890ae34d7101e49a58626",
+    "translation_ru": "Reed Wright:Ну и ну, в «Вестнике эскаписта» напечатают <i>всё что угодно</i>, кроме <i>правды!</i>",
+    "reason": "editorial_pass_01_map_terminology_or_character_exclamation",
+    "editor": "Codex",
+    "date": "2026-11-06"
+  }
+]
