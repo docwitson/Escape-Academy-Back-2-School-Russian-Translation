@@ -24,7 +24,7 @@
 
 ## Скачать
 
-**[Скачать установщик из Releases](https://github.com/docwitson/Escape-Academy-Back-2-School-Russian-Translation/releases/tag/v0.2.0)**
+**[Скачать установщик из Releases](https://github.com/docwitson/Escape-Academy-Back-2-School-Russian-Translation/releases/tag/v0.3.0)**
 
 ![Окно установщика](docs/media/installer.png)
 
@@ -32,8 +32,8 @@
 
 | Параметр | Поддерживается |
 | --- | --- |
-| Русификатор | 0.2.0 |
-| Steam build ID | **26497480** |
+| Русификатор | 0.3.0 |
+| Steam build ID | **26574302** |
 | Платформа | Windows x64 |
 | Язык в настройках игры | **English** |
 

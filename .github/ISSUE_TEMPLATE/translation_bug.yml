@@ -9,7 +9,7 @@ body:
     id: versions
     attributes:
       label: Сборка игры и версия русификатора
-      placeholder: "Steam build 26497480, русификатор 0.2.0"
+      placeholder: "Steam build 26574302, русификатор 0.3.0"
     validations:
       required: true
   - type: input

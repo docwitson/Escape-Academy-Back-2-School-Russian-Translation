@@ -1,10 +1,10 @@
 {
-  "verified_at": "2026-11-08T13:46:17.415723+00:00",
+  "verified_at": "2026-11-18T20:54:09.720232+00:00",
   "artifact": "EscapeAcademy2-Russian-Setup.exe",
-  "bytes": 13331868,
-  "sha256": "f18d6650f16c19eef6575faaa82566f2e5f62b8810fae61d3f19ee347c13c382",
-  "version": "0.2.0",
-  "game_build": "26497480",
+  "bytes": 13331652,
+  "sha256": "e2571666f6ffcb0ca02b173b0d9cc96924f32afe9117152b25563f44ca0745b3",
+  "version": "0.3.0",
+  "game_build": "26574302",
   "tests_passed": 44,
   "packaged_exe_roundtrip": {
     "ok": true,
@@ -16,9 +16,9 @@
   },
   "runtime_gameplay_tested": false,
   "working_game_modified": false,
-  "code_signed": false,
   "distribution_format": "exe_only",
-  "source_strings_changed": 0,
-  "localization_objects_unchanged": 5,
+  "code_signed": false,
+  "source_strings_changed": 1,
+  "unchanged_source_rows": 8805,
   "repository": "https://github.com/docwitson/Escape-Academy-Back-2-School-Russian-Translation"
 }

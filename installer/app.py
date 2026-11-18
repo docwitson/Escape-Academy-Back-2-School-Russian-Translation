@@ -43,7 +43,7 @@ class App:
         if icon.exists(): self.root.iconbitmap(str(icon))
         self.root.protocol('WM_DELETE_WINDOW', self.close)
         self.payload = Path(getattr(sys, '_MEIPASS', Path(__file__).parent)) / 'payload'
-        self.package = load_manifest(self.payload) if (self.payload / 'package.json').exists() else dict(version='0.2.0', game_build='26497480')
+        self.package = load_manifest(self.payload) if (self.payload / 'package.json').exists() else dict(version='0.3.0', game_build='26574302')
         self.busy = False; self.events = queue.Queue()
         sheet = tk.Canvas(self.root, width=1000, height=680, bg=BG, highlightthickness=0)
         sheet.pack(fill='both', expand=True); self.sheet = sheet

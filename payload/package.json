@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",
-  "game_build": "26497480",
+  "version": "0.3.0",
+  "game_build": "26574302",
   "files": [
     {
-      "container": "EscapeAcademy2Back2School_Data/StreamingAssets/aa/StandaloneWindows64/yarnprojects__a0b284219534b9affacf225c0ecd5ffb.bundle",
-      "source_sha256": "cda96c845c9c073159d71aa831b15fedf429a962d61835e6d729444a68551112",
-      "patch_sha256": "8fb22a8fee786ee91b22f377f406da9e78f6052ab8e7e2d7af86a72eef88f506",
+      "container": "EscapeAcademy2Back2School_Data/StreamingAssets/aa/StandaloneWindows64/yarnprojects__8ef60b869c33d6eb06292ba2909d0534.bundle",
+      "source_sha256": "6bd3a097c04552f81dca406ac2d14764e2841f367cce3fe5b9a0f22f406c6bd4",
+      "patch_sha256": "15e9e49b45f217dbefd5b6f2e462c83da5fc6b19c715a42f06d1a58c14231f5d",
       "objects_verified": 9,
       "changed_objects": [
         {
-          "asset_file": "CAB-be11c5f92a6467f53aaa915106d5e687",
+          "asset_file": "CAB-8169808783f2e649ba0dd362091f7bcc",
           "path_id": 6561115889310298899
         }
       ],
@@ -17,14 +17,14 @@
       "metadata_unchanged": true,
       "physical_text_edits": 702,
       "forward": "0-forward.bsdiff",
-      "forward_sha256": "0b581b6600dc163c0130573c2f15685b411cd177ac9bba289d6fe7363a03920d",
+      "forward_sha256": "d8980c79bb489ee4281587e855ba3542da00a0d625318e736b642235a973bd46",
       "reverse": "0-reverse.bsdiff",
-      "reverse_sha256": "7fd6014dc11d771551e900cb097bc431b817e6249bb99e72b6f62db9b790ae9e"
+      "reverse_sha256": "08e663f08f5bb284e0680b83a7df303751aaf18fb368497c0286d31c8cf6a427"
     },
     {
       "container": "EscapeAcademy2Back2School_Data/sharedassets0.assets",
-      "source_sha256": "454d7a62258f0396a6f4d3d3de6e8a4714b6c1462f11a86b80d5a8bc1cea4a9b",
-      "patch_sha256": "3fdf2275a56a9503b07f0708b2999926cd851e0ff3e3537ea4ca915a49bb42b5",
+      "source_sha256": "cfe41f1c1b640bcb9f7355b3c17588d6a88f7968996c54fba2b31298b292f210",
+      "patch_sha256": "af506808ab6e90d3672c56112924764c32878b7ed5b80a73952e4fc0243df9f4",
       "objects_verified": 13999,
       "changed_objects": [
         {
@@ -48,9 +48,9 @@
       "metadata_unchanged": true,
       "physical_text_edits": 8034,
       "forward": "1-forward.bsdiff",
-      "forward_sha256": "cf6a66f74349fca57b0989355c6fb1ce7aea3dee0eec34457ff9d9eeb4a58601",
+      "forward_sha256": "2aada5e35f22e654448b8bc7e67fa6750c06632e74c51791ad9545c679384c83",
       "reverse": "1-reverse.bsdiff",
-      "reverse_sha256": "f21b05b721415b4531d9ec121431b092e00f78d5ec4b1cb7f907fa1c8b711989"
+      "reverse_sha256": "8bc1708c6fe7512b76933f36495b405ddc932f1d33aa75b350497d47802e91d4"
     }
   ]
 }
